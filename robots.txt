@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rralex96.github.io/observatorio-biometano/sitemap.xml

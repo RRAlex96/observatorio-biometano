@@ -1,0 +1,11 @@
+linha,linha_pt,plano_2030_gwh,baixo_gwh,central_gwh,alto_gwh
+existing_biogas,"Biogás existente convertido (aterros, digestores de resíduos e ETAR)",440,233.6,257.4,432.3
+msw_organic,Fração orgânica dos resíduos urbanos (nova capacidade),360,51.6,95.5,471.8
+sewage_sludge,Lamas de ETAR (nova capacidade),50,27.6,27.6,57.6
+livestock,Efluentes pecuários,940,161.5,467.5,726.1
+agroindustrial,Resíduos agroindustriais,70,57,266.3,266.3
+agricultural,Resíduos agrícolas,560,0,0,343.3
+forest_gasification,Resíduos florestais por gaseificação,10,0,0,0
+bio_co2_methanation,Metanação do CO₂ biogénico com hidrogénio renovável,290,0,0,0
+registered_unsized,Outras unidades registadas (matéria-prima mista ou não declarada),0,115.8,329.1,1356
+total,Total,2720,647.1,1443.4,3653.3

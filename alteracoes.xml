@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-PT"><id>tag:observatorio-biometano,2026:alteracoes</id><title>Observatório do Biometano: alterações</title><updated>2026-11-13T00:00:00Z</updated><author><name>Observatório do Biometano</name></author><link rel="alternate" href="https://rralex96.github.io/observatorio-biometano/alteracoes.html"/><link rel="self" type="application/atom+xml" href="https://rralex96.github.io/observatorio-biometano/alteracoes.xml"/>
+<entry><id>tag:observatorio-biometano,2026-11-13:correcoes-a-partir-de-documentos-primarios-e-prazos-nos-dados-abertos</id><title>Correções a partir de documentos primários e prazos nos dados abertos</title><updated>2026-11-13T00:00:00Z</updated><link href="https://rralex96.github.io/observatorio-biometano/alteracoes.html#d2026-11-13"/><content type="text">Os dados abertos (unidades.csv e unidades.json) passam a ter a data-limite da DGEG, a situação face a esse prazo, o prazo de conclusão do PRR, o mês de arranque previsto e se este fica depois da data-limite.
+
+A secção de prazos explica a caução por bloqueio da capacidade de injeção (Decreto-Lei 62/2020, artigo 70.º; Despacho 8030/2025): 10% da capacidade reservada a 7,44 €/MWh, devolvida com o início de exploração e perdida se o registo caducar ou for cancelado. O valor de cada caução não é público, porque depende da capacidade reservada.
+
+Novo desenho do observatório, com as fontes de cada projeto identificadas pelo título do documento e uma linha temporal dos prazos em cada página de projeto.
+
+Capwatt Monforte (ForteGás): DIA favorável condicionada de 27 de maio de 2026; cerca de 7 MW de biometano a partir de cerca de 154 700 t/ano (cerca de 61 GWh/ano, derivado); biometano comprimido transportado por camião cerca de 13 km até à estação JCT 07-300 da REN; matéria-prima mista.
+
+Tratolixo Abrunheira deixa de constar como em produção: o relatório e contas de 2025 mostra uma central de biogás que vende eletricidade, com a conversão a biometano em estudo.
+
+Capwatt Seia: liquefação (alteração aprovada pelo Fundo Ambiental em 2023). Capwatt e FBG em Ferreira do Alentejo: via de escoamento por confirmar (a imprensa refere injeção na rede).
+
+Acrescentados dois registos da Capwatt indeferidos pela DGEG (GreenMethane, em Nisa, e ChamuscaGás), ambos com adjudicação preliminar no 2.º aviso do PRR.
+
+Gasdaterra Torres Novas: matéria-prima mista e ligação por gasoduto de 1 325 m à GRMS 8309; Genia Leiria: investimento atualizado para cerca de 48 M€; Capwatt Aljustrel: em exploração desde novembro de 2025.</content></entry>
+<entry><id>tag:observatorio-biometano,2026-11-11:primeira-publicacao-do-observatorio</id><title>Primeira publicação do observatório</title><updated>2026-11-11T00:00:00Z</updated><link href="https://rralex96.github.io/observatorio-biometano/alteracoes.html#d2026-11-11"/><content type="text">As datas-limite dos registos passam a vir da lista da DGEG para todos os projetos com título. Quatro projetos da Capwatt com apoio do PRR (Monforte, Ferreira do Zêzere, Ferreira do Alentejo e Tomar) passaram a data-limite em set. e out. 2026 e continuam listados como título emitido.
+
+Base legal dos alertas confirmada no texto consolidado do Decreto-Lei 62/2020 (artigo 70.º, n.os 6 e 7): o registo caduca se a central não entrar em exploração em dois anos, com prorrogação possível pela DGEG, um ano de cada vez, até duas vezes.
+
+Decisões públicas verificadas de novo a 11 nov. 2026: a ERSE ainda lista a consulta 143 (custos de ligação) como em curso, a DGEG não publicou o modelo de apoio nem anunciou novo leilão, e não há diploma das quotas.
+
+Uma ficha por unidade de biometano conhecida em Portugal continental, com a etapa de desenvolvimento, a dimensão e as fontes de cada valor.
+
+Correção: duas unidades ativas eram tratadas como arquivadas porque o histórico do estado mencionava um registo anterior cancelado ou indeferido (Heygaz, em Leiria, e Paradigma Milenar, em Vila Nova de Famalicão). Passam a contar como ativas. No balanço de 2030, os cenários baixo e central não mudam e o cenário alto sobe de 3 438 para 3 582 GWh/ano.</content></entry>
+<entry><id>tag:observatorio-biometano,2026-11-09:comparacao-com-a-lista-da-dgeg-de-23-10-2026</id><title>Comparação com a lista da DGEG de 23-10-2026</title><updated>2026-11-09T00:00:00Z</updated><link href="https://rralex96.github.io/observatorio-biometano/alteracoes.html#d2026-11-09"/><content type="text">62 processos de biometano na lista; nenhum processo ativo fica fora do observatório.
+
+O registo RPG/0001 da Dourogás em Vila Flor consta como caducado; a unidade de Urjais, em Mirandela, segue com o título RPG/0132.
+
+O registo RPG/0191 da SGDT 1001, em Alenquer, consta com título emitido; é tratado como o mesmo local do registo da Gasdaterra em Abrigada, porque a APA indica a SGDT 1001 como operador desse projeto.</content></entry>
+<entry><id>tag:observatorio-biometano,2026-11-07:dimensoes-a-partir-dos-planos-das-redes-de-distribuicao</id><title>Dimensões a partir dos planos das redes de distribuição</title><updated>2026-11-07T00:00:00Z</updated><link href="https://rralex96.github.io/observatorio-biometano/alteracoes.html#d2026-11-07"/><content type="text">Quatro unidades sem dimensão pública ganham uma estimativa a partir do projeto de injeção do mesmo concelho nos planos da Floene (PDIRD-G 2026, Quadro 4): Moita (75 GWh/ano), Santarém (70), Torres Vedras (56) e aterro da Suldouro, em Santa Maria da Feira (47). Cada ficha explica a correspondência.</content></entry>
+</feed>
