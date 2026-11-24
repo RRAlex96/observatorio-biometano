@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://rralex96.github.io/observatorio-biometano/alteracoes.html</loc><lastmod>2026-11-13</lastmod></url>
+<url><loc>https://rralex96.github.io/observatorio-biometano/analises/balanco-2030.html</loc><lastmod>2026-11-13</lastmod></url>
+<url><loc>https://rralex96.github.io/observatorio-biometano/analises/reconversao-biogas.html</loc><lastmod>2026-11-13</lastmod></url>
+<url><loc>https://rralex96.github.io/observatorio-biometano/analises/resto-2030-efluentes.html</loc><lastmod>2026-11-13</lastmod></url>
 <url><loc>https://rralex96.github.io/observatorio-biometano/</loc><lastmod>2026-11-13</lastmod></url>
 <url><loc>https://rralex96.github.io/observatorio-biometano/metodologia.html</loc><lastmod>2026-11-13</lastmod></url>
 <url><loc>https://rralex96.github.io/observatorio-biometano/unidades/abrigada-gasdaterra.html</loc><lastmod>2026-11-13</lastmod></url>
@@ -57,7 +60,4 @@
 <url><loc>https://rralex96.github.io/observatorio-biometano/unidades/vila-do-conde-capwatt.html</loc><lastmod>2026-11-13</lastmod></url>
 <url><loc>https://rralex96.github.io/observatorio-biometano/unidades/vila-nova-de-famalicao-paradigma.html</loc><lastmod>2026-11-13</lastmod></url>
 <url><loc>https://rralex96.github.io/observatorio-biometano/unidades/vila-nova-de-famalicao-renewgas.html</loc><lastmod>2026-11-13</lastmod></url>
-<url><loc>https://rralex96.github.io/observatorio-biometano/relatorios/balance-2030.html</loc><lastmod>2026-11-13</lastmod></url>
-<url><loc>https://rralex96.github.io/observatorio-biometano/relatorios/conversion-ranking.html</loc><lastmod>2026-11-13</lastmod></url>
-<url><loc>https://rralex96.github.io/observatorio-biometano/relatorios/gap-2030.html</loc><lastmod>2026-11-13</lastmod></url>
 </urlset>
