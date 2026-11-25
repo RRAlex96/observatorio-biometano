@@ -345,6 +345,7 @@ details.fold summary{cursor:pointer;color:var(--blue);font-size:15px;font-weight
 .rng-ring.over{margin-left:-13px;border-radius:50% 2px 2px 50%}
 .nears{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 28px;margin-top:14px}
 .nears h4{font-size:15px;margin-bottom:4px}.nears p{margin:0;font-size:14px;line-height:1.6;color:var(--ink-2)}
+.author{margin:18px 0 0;font-size:15.5px;line-height:1.55;color:var(--ink-2)}.author b{color:var(--ink);font-weight:500}
 .lmore{margin:14px 0 0}.lmore a{color:var(--blue);font-weight:500;font-size:15px}.lmore a::after{content:" →"}.lmore a:hover{text-decoration:underline;text-underline-offset:3px}
 @media (max-width:960px){.afig{align-self:start;max-width:420px}}
 @media (max-width:860px){.nears{grid-template-columns:1fr}.rng-row,.rng-axis{grid-template-columns:minmax(0,1fr) 76px;gap:6px 16px}.rng-row .rng-track{grid-column:1/-1;grid-row:2}
